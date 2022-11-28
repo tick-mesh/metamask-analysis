@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as s,a as t}from"./app.eea5ab33.js";const M=JSON.parse('{"title":"MetaMask\u6E90\u7801\u89E3\u8BFB","description":"","frontmatter":{},"headers":[],"relativePath":"home.md","lastUpdated":1669626247000}'),n={name:"home.md"},o=t("",6),p=[o];function c(r,i,l,_,d,h){return s(),e("div",null,p)}const k=a(n,[["render",c]]);export{M as __pageData,k as default};

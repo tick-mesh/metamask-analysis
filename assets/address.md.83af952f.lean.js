@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as i,a as l}from"./app.eea5ab33.js";const b=JSON.parse('{"title":"\u94B1\u5305\u5730\u5740","description":"","frontmatter":{},"headers":[],"relativePath":"address.md","lastUpdated":1669630685000}'),t={name:"address.md"},n=l("",4),o=[n];function h(m,s,p,c,d,r){return i(),a("div",null,o)}const j=e(t,[["render",h]]);export{b as __pageData,j as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,a}from"./app.eea5ab33.js";const k=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"modules.md","lastUpdated":1669631579000}'),s={name:"modules.md"},o=a("",10),n=[o];function p(h,l,i,c,_,m){return t(),r("div",null,n)}const f=e(s,[["render",p]]);export{k as __pageData,f as default};
