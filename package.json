@@ -1,0 +1,18 @@
+{
+  "name": "metamask-analysis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tick-mesh/metamask-analysis.git",
+  "author": "lybenson",
+  "license": "MIT",
+  "homepage": "https://tich-mesh.github.io/metamask-analysis",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.29",
+    "vue": "^3.2.45"
+  }
+}
