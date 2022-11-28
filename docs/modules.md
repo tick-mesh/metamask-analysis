@@ -14,6 +14,12 @@
 
 [json-rpc-engine](https://github.com/MetaMask/json-rpc-engine)
 
+[json-rpc-middleware-stream](https://github.com/MetaMask/json-rpc-middleware-stream)
+
 [eth-json-rpc-infura](https://github.com/MetaMask/eth-json-rpc-infura)
 
 [@metamask/controllers](https://github.com/MetaMask/controllers)
+
+[@metamask/snap-controllers]()
+
+[@metamask/smart-transactions-controller]()
