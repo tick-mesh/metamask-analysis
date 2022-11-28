@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as s}from"./app.fc6de384.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","lastUpdated":1669621297000}'),n={name:"index.md"},o=s("p",null,"asdadwasd",-1),d=[o];function r(c,_,i,p,l,m){return a(),t("div",null,d)}const x=e(n,[["render",r]]);export{u as __pageData,x as default};
