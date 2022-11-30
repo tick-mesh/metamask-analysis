@@ -32,7 +32,7 @@
 
 ### action
 
-[chrome.action](https://developer.chrome.com/docs/extensions/reference/action/#injecting-a-content-script-on-click) 控制浏览器工具栏中的插件图标相关
+[chrome.action](https://developer.chrome.com/docs/extensions/reference/action/#manifest) 控制浏览器工具栏中的插件图标相关
 
 
 ```json
