@@ -4,6 +4,7 @@
 
 要去了解地址的生成规则
 
+flow:
 
 1. extension://ejbalbakoplchlghecdalmeeeajnimhm/home.html#initialize/welcome
 
